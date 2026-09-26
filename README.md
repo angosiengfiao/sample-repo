@@ -6,4 +6,4 @@ Simple static web design project featuring a styled **Hello World** page.
 
 Open `/home/runner/work/sample-repo/sample-repo/index.html` in your browser.
 
-SAMPLING MERGE
+SAMPLED again
